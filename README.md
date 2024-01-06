@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Notebook scrapes Rotten Tomatoes' editorial list of the "Top 100 Best Netflix Shows and Movies to Binge-Watch Now" for December. It extracts information such as the name, critic score, release year, and ranking for each show/movie and saves the data into a CSV file.
+This Notebook scrapes Rotten Tomatoes' editorial list of the "Top 100 Best Netflix Shows and Movies to Binge-Watch Now" for December 2023. It extracts information such as the name, critic score, release year, and ranking for each show/movie and saves the data into a CSV file.
 
 ## Additional Features
 
