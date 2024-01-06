@@ -6,7 +6,7 @@ This Notebook scrapes Rotten Tomatoes' editorial list of the "Top 100 Best Netfl
 
 ## Additional Features
 
-- The script also includes a loop to scrape data from multiple pages on the Rotten Tomatoes site. However, due to challenges like repetitive data and data limits, this part of the script may require further modification for optimal functionality.
+- The notebook also includes a loop to scrape data from multiple pages on the Rotten Tomatoes site. However, due to challenges like repetitive data and data limits, this part of the notebook may require further modification for optimal functionality.
 
 ## Dependencies
 
