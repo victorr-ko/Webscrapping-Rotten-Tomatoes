@@ -19,4 +19,4 @@ This Notebook scrapes Rotten Tomatoes' editorial list of the "Top 100 Best Netfl
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#bs4.Tag)
 - [Rotten Tomatoes - Best Netflix Shows and Movies](https://editorial.rottentomatoes.com/guide/best-netflix-shows-and-movies-to-binge-watch-now/)
 
-Feel free to use and modify this script as needed. Happy binge-watching! 🍿📺
+Feel free to use and modify this notebook as needed. Happy binge-watching! 🍿📺
